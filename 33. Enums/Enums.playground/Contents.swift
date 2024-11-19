@@ -45,7 +45,7 @@ func getWeekDayNameByNumber(number: Int) -> String? {
     case 1:
         "Понедельник"
     case 2:
-        "Врорник"
+        "Вторник"
     case 3:
         "Среда"
     case 4:
